@@ -25,3 +25,6 @@
 - Paiements de factures
 - Examiner le solde des abeilles (vigilance)
 - Rapport d'entrées/sorties des abeilles et du Hive
+### Rétribution
+- Tarif horaire 50$
+- 6h mensuel
