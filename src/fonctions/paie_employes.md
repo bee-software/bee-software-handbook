@@ -6,6 +6,7 @@
 - La mise à jour des informations des employés
 ### Outil
 > Programme, applications, liste de vérification, etc.
+- François Perron
 - ADP
 ### Préservation
 > Solution en tant que création innovante

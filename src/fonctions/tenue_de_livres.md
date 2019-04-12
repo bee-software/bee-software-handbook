@@ -8,6 +8,7 @@
 - Faciliter l'engagement dans la réalité financière de Bee
 ### Outil
 > Programme, applications, liste de vérification, etc.
+- Carl Létourneau
 - Xero
 - Rapport ADP
 - 1Password (tous les mots de passe de nos fournisseurs)
