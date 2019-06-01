@@ -1,8 +1,7 @@
 # Fonctions
 
-TO_DO Texte introduisants les fonctions.
+TO_DO Texte introduisant les fonctions.
 
-- [Tenue de livres](./fonctions/tenue_de_livres.md)
-- [Paie des employés](./fonctions/paie_employes.md)
-- [Butinage](./fonctions/butinage.md)
-
+- [Payer les employés](./fonctions/payer_employes.md)
+- [Tenir les livres](./fonctions/tenir_les_livres.md)
+- [Butiner](./fonctions/butiner.md)

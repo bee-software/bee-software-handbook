@@ -1,7 +1,7 @@
-# Fonction - Butinage
+# Fonction - Butiner
 ### Service
 > Proposition de valeur
-- Réaliser les projets de bee 
+- Réaliser les projets de bee
 - Faciliter le travailler collaboratif
 ### Outil
 > Programme, applications, liste de vérification, etc.
@@ -11,7 +11,7 @@
 > Solution en tant que création innovante
 - Relation avec les autres abeilles
 - Faire vivre les projets
-- Emmener de nouvelles opportunités 
+- Emmener de nouvelles opportunités
 ### Action
 > Penser dans un processus séquentiel et linéaire
 - Se réunir à fréquence régulière après la danse de l'essaim
@@ -19,5 +19,5 @@
 - Effectuer des tâches en lien avec le projet
 - Rendre visible l'avancement des projets
 ### Rétribution
-- Tarif horaire 75$ 
+- Tarif horaire 75$
 - Payé après chaque rencontre

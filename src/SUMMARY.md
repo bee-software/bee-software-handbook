@@ -3,7 +3,10 @@
 [Introduction](./intro.md)
 
 - [Fonctions](./fonctions.md)
-	- [Tenue de livres](./fonctions/tenue_de_livres.md)
-	- [Paie employés](./fonctions/paie_employes.md)
+	- [Payer les employés](./fonctions/payer_employes.md)
+	- [Tenir les livres](./fonctions/tenir_les_livres.md)
+	- [Butiner](./fonctions/butiner.md)
 
-- [Chapitre 2](./chapitre_2.md)
+- [Projets](./projets.md)
+	- [Gabarit](./hive.projets/gabarit.md)
+	- [Crédits RS-DE 2018](./hive.projets/rs_de_2018.md)
