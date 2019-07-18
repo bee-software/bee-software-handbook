@@ -1,4 +1,4 @@
-# Fonction - Butinage
+# Fonction - Butiner
 ### Service - ouverture
 > Proposition de valeur 
 - Un contexte pour réaliser des projets
@@ -11,7 +11,7 @@
 > Solution en tant que création innovante
 - La valeur des projets 
 - Regénération de nouveaux projets
-### Action - motivé
+### Action- motivé
 > Penser dans un processus séquentiel et linéaire 
 - Se réunir à fréquence régulière après la danse de l'essaim
 - Réalisation des projets
@@ -19,5 +19,5 @@
 - Partage de nouvelles idées menant à la création de nouveaux projets
 ---
 ### Rétribution
-- Tarif horaire 75$ 
+- Tarif horaire 75$
 - Payé après chaque rencontre

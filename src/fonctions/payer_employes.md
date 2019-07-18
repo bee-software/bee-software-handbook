@@ -1,4 +1,4 @@
-# Fonction - Paie des employés
+# Fonction - Payer les employés
 ### Service
 > Proposition de valeur
 - La paie aux 2 semaines calculée, approuvée et déposée dans le compte de banque des employés.
@@ -20,5 +20,5 @@
     - Communiquer avec ADP pour l'émission des relevés fiscaux de tests puis des vrais.
 ### Rétribution
 - ~10 minutes par 2 semaines + ~2 heures par année = 6h par année
-- Tarif horaire 50$ 
-- Payé annuellement 
+- Tarif horaire 50$
+- Payé annuellement

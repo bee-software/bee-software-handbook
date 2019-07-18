@@ -1,4 +1,4 @@
-# Fonction - Tenue de livres
+# Fonction - Tenir les livres
 ### Service
 > Proposition de valeur
 - Le solde de chacune des abeilles (pour faire des paiements, remboursements)
