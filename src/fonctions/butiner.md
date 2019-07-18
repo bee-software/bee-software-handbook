@@ -1,23 +1,23 @@
 # Fonction - Butiner
-### Service
-> Proposition de valeur
-- Réaliser les projets de bee
-- Faciliter le travailler collaboratif
-### Outil
+### Service - ouverture
+> Proposition de valeur 
+- Un contexte pour réaliser des projets
+- Un contexte pour discuter de la valeur des projets
+### Outil - apte
 > Programme, applications, liste de vérification, etc.
-- Les gens présents au butinage
-- La salle breather
-### Préservation
+- Les gens aptes présents
+- L'espace créé
+### Préservation - convergence
 > Solution en tant que création innovante
-- Relation avec les autres abeilles
-- Faire vivre les projets
-- Emmener de nouvelles opportunités
-### Action
-> Penser dans un processus séquentiel et linéaire
+- La valeur des projets 
+- Regénération de nouveaux projets
+### Action- motivé
+> Penser dans un processus séquentiel et linéaire 
 - Se réunir à fréquence régulière après la danse de l'essaim
-- Aider à définir les projets
-- Effectuer des tâches en lien avec le projet
-- Rendre visible l'avancement des projets
+- Réalisation des projets
+- Inspection de la pertinence, de l'avancement et des valeurs du projet
+- Partage de nouvelles idées menant à la création de nouveaux projets
+---
 ### Rétribution
 - Tarif horaire 75$
 - Payé après chaque rencontre

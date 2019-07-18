@@ -3,9 +3,9 @@
 [Introduction](./intro.md)
 
 - [Fonctions](./fonctions.md)
-	- [Payer les employés](./fonctions/payer_employes.md)
-	- [Tenir les livres](./fonctions/tenir_les_livres.md)
-	- [Butiner](./fonctions/butiner.md)
+	- [Butinage](./fonctions/butinage.md)
+	- [Tenue de livres](./fonctions/tenue_de_livres.md)
+	- [Paie employés](./fonctions/paie_employes.md)
 
 - [Projets](./projets.md)
 	- [Gabarit](./hive.projets/gabarit.md)
