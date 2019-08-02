@@ -11,4 +11,4 @@
 ### Actions
 > Penser dans un processus séquentiel et linéaire
 1. ...
-2. Rétribution?
+1. Rétribution?

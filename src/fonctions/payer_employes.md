@@ -18,7 +18,4 @@
     - Faire la paie
 - Une fois par année
     - Communiquer avec ADP pour l'émission des relevés fiscaux de tests puis des vrais.
-### Rétribution
-- ~10 minutes par 2 semaines + ~2 heures par année = 6h par année
-- Tarif horaire 50$
-- Payé annuellement
+- Rétribution ~10 minutes par 2 semaines + ~2 heures par année = 6h par année. Tarif horaire 50$. Payé annuellement.

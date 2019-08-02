@@ -1,6 +1,6 @@
 # Fonction - Butiner
 ### Service - ouverture
-> Proposition de valeur 
+> Proposition de valeur
 - Un contexte pour réaliser des projets
 - Un contexte pour discuter de la valeur des projets
 ### Outil - apte
@@ -9,15 +9,12 @@
 - L'espace créé
 ### Préservation - convergence
 > Solution en tant que création innovante
-- La valeur des projets 
+- La valeur des projets
 - Regénération de nouveaux projets
 ### Action- motivé
-> Penser dans un processus séquentiel et linéaire 
+> Penser dans un processus séquentiel et linéaire
 - Se réunir à fréquence régulière après la danse de l'essaim
 - Réalisation des projets
 - Inspection de la pertinence, de l'avancement et des valeurs du projet
 - Partage de nouvelles idées menant à la création de nouveaux projets
----
-### Rétribution
-- Tarif horaire 75$
-- Payé après chaque rencontre
+- Rétribution : Tarif horaire 75$. Payé après chaque rencontre.
