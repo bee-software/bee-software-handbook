@@ -1,1 +1,15 @@
-
+# Fonction - Remettre à zéro
+### Service
+> Proposition de valeur
+- ...
+### Outil
+> Programme, applications, liste de vérification, etc.
+- ...
+### Préservation
+> Solution en tant que création innovante
+- ...
+### Action
+> Penser dans un processus séquentiel et linéaire
+- ...
+### Rétribution
+- ...
