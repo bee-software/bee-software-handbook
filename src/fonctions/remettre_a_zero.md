@@ -15,7 +15,7 @@
 - Discerner clairement la légitimité des contributions
 ### Actions
 > Penser dans un processus séquentiel et linéaire
-- Construire la proposition
-- Socialiser la proposition
-- Entériner la proposition
-- Appliquer la rétribution résultante
+1. Construire la proposition
+1. Socialiser la proposition
+1. Entériner la proposition
+1. Appliquer la rétribution résultante
