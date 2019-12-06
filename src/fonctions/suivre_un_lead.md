@@ -1,4 +1,4 @@
-# Fonction - Tenir les livres
+# Fonction - Suivre un lead
 ### Service
 > Proposition de valeur
 - ...
