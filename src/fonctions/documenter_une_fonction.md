@@ -1,4 +1,4 @@
-# Fonction - Tenir les livres
+# Fonction - Documenter une fonction
 ### Service
 > Proposition de valeur
 - ...
