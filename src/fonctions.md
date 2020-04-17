@@ -10,3 +10,4 @@ Utilisez le [gabarit](./fonctions/gabarit.md) et la fonction, [documenter une fo
 - [Remettre à zéro](./fonctions/remettre_a_zero.md)
 - [Contribuer au hive](./fonctions/contribuer_au_hive.md)
 - [Suivre un lead](./fonctions/suivre_un_lead.md)
+- [Robin des bois](./fonctions/robin_des_bois.md)
