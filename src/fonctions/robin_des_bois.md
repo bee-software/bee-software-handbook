@@ -4,7 +4,7 @@
 - Permettre de démarrer rapidement et à moindre coût un projet
 ### Outils
 - Stack de build et déploiement
-- [Le hive](./fonctions/contribuer_au_hive.md)
+- [Le hive](./contribuer_au_hive.md)
 ### Préservation
 - La pertinence de la stack
 - La rentabilité pour bee et les clients
