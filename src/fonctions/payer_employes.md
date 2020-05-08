@@ -1,18 +1,14 @@
 # Fonction - Payer les employés
-### Service
-> Proposition de valeur
+### Contexte
 - La paie aux 2 semaines calculée, approuvée et déposée dans le compte de banque des employés.
 - L'émission et la distribution des relevés fiscaux
 - La mise à jour des informations des employés
+### Préservation
+- ?
 ### Outil
-> Programme, applications, liste de vérification, etc.
 - François Perron
 - ADP
-### Préservation
-> Solution en tant que création innovante
-- ?
 ### Action
-> Penser dans un processus séquentiel et linéaire
 - Aux 2 semaines
     - Se rappeler de faire la paie
     - Faire la paie
