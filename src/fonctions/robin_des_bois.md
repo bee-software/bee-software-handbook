@@ -13,4 +13,5 @@
 - Promouvoir aux abeilles via les retours d'expérience
 - Ramener les bonnes solutions découvertes en mandat en tant qu'outil
 - Supporter financièrement les petits projets
+- Approuver le financement par le hive selon l'ampleur du financement et la balance du hive
 - Embaucher et intégrer (P. Ex. : coacher et transmettre des connaissances) des stagiaires
