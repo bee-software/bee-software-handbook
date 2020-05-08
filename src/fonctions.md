@@ -4,6 +4,7 @@ TO_DO Texte introduisant les fonctions.
 
 Utilisez le [gabarit](./fonctions/gabarit.md) et la fonction, [documenter une fonction](./fonctions/documenter_une_fonction.md), pour vous soutenir à documenter une fonction.
 
+- [Proposer un projet](./hive.projets/proposer_un_projet.md)
 - [Payer les employés](./fonctions/payer_employes.md)
 - [Tenir les livres](./fonctions/tenir_les_livres.md)
 - [Butiner](./fonctions/butiner.md)
