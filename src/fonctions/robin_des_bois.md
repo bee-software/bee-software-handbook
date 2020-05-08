@@ -1,4 +1,4 @@
-# Fonction - Robin des bois
+# Fonction - Robin des bois futé
 ### Contexte
 - Permettre aux petits clients de se payer nos services
 - Permettre de démarrer rapidement et à moindre coût un projet
