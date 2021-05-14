@@ -13,8 +13,8 @@
 - Regénération de nouveaux projets
 ### Action- motivé
 > Penser dans un processus séquentiel et linéaire
-- Se réunir à fréquence régulière après la danse de l'essaim
+- Se réunir à fréquence régulière après la danse de l'essaim. À noter que la danse de l'essaim est considéer comme du butinage et que par conséquent la rétribution s'applique.
 - Réalisation des projets
 - Inspection de la pertinence, de l'avancement et des valeurs du projet
 - Partage de nouvelles idées menant à la création de nouveaux projets
-- Rétribution : Tarif horaire 75$. Payé après chaque rencontre.
+- Rétribution : Tarif horaire 75$. Payé après chaque activité.
