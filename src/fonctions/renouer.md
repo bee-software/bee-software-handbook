@@ -1,0 +1,1 @@
+> À définir ensemble. Quand une abeille revient de [s'absenter](sabsenter.md).
