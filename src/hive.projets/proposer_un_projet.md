@@ -33,6 +33,8 @@ Aperçu et objectif
 Récits et précédents pertinents
 > Les histoires du passé Ex: Les années précédentes, les difficulté et succès du passé.
 
+Voir registre des précédents
+
 Retombés souhaitées
 > TO_DO
 

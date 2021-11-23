@@ -1,0 +1,1 @@
+> À définir ensemble. Quand une abeille s'absente pour une longue durée, déterminée ou non

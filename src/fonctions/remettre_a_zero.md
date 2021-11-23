@@ -19,3 +19,9 @@
 1. Socialiser la proposition
 1. Entériner la proposition
 1. Appliquer la rétribution résultante
+
+
+Commentaire(Nicholas):
+Il semble manquer un point sur le fait que la remise à zéro n'est pas que monétaire.
+(EX: clarifications, reconnaissances, etc. )
+COS: L'abeille est capable d'aller de l'avant sans le sentiment d'inéquité réside.

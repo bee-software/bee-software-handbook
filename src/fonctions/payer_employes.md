@@ -1,13 +1,13 @@
 # Fonction - Payer les employés
 ### Contexte
 - Faire la paie aux 2 semaines des employés
-- Émettre et distribier les relevés fiscaux
+- Émettre et distribuer les relevés fiscaux
 - Mettre à jour les informations des employés
 ### Préservation
 - L'efficacité du processus de paie
 - L'exactitude des calculs
 ### Outil
-- François Perron
+- Alexandre Daigle(alex@bee.software)
 - ADP
 ### Action
 - Se rappeler de faire la paie et faire la paie aux 2 semaines
