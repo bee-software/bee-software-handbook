@@ -1,26 +1,32 @@
 ![Bee.Software Handbook](../../assets/img/bee_changeons_le_visage.png)
 
+### Qui sommes nous ?
+
+Bee, l'art de développer du logiciel.
+
 ## Raison d’être
 > Pourquoi on existe ?
 
-Changer le visage du développement logiciel au Québec.
+Donner ses lettres de noblesse au développement logiciel.
 
 ### Raison d'être - En détails
 
-Changer le visage du développement logiciel au Québec en offrant une expérience différente, professionnelle et complète. Produire des logiciels que nos clients adorent et qui nous rendent fiers.
+Donner ses lettres de noblesses, autrement dit donner une grande notoriété, à l'art de développer des logiciels grâce à nos compétences.
+
+Développer avec passion des logiciels qui nous rendent fiers en offrant une expérience différente, professionnelle et complète que nos clients adorent. 
 
 
 ## Valeurs
 >Comment on se comporte ?
 
 ### Valeurs coeur
->Les valeurs vécues par le groupe (max 10)
+>Quelles sont les valeurs vécues au sein de la ruche
 
 * Ouverture - Accueillir et écouter plutôt que se limiter à l'établi
 * Plaisir - Ressentir de la joie et de la satisfaction plutôt que du devoir
 * Engagement - Co-créer le succès plutôt que participer au succès
 * Pérennité - Bâtir des relations et solutions durables plutôt qu'éphémères
-* Passion - Aimer ce qu'on fait et en être fiers plutôt que se contenter de faire
+* Passion - Aimer et être fiers de ce qu'on fait plutôt que se contenter de faire
 * Maîtrise - Exceller et constamment s'améliorer plutôt que se complaire
 
 ### Valeurs aspirationnelles
