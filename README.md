@@ -16,6 +16,7 @@ Il cherche à
 [Introduction](./intro.md)
 
 - [Bee](./src/ressources/bee.md)
+  - [Objectif thématique](./src/ressources/objectif.md)
   - [Outils](./src/ressources/outils.md)
   - [Routines](./src/ressources/routines.md)
   - [Pratiques](./src/ressources/pratiques.md) 
