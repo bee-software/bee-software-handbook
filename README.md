@@ -60,6 +60,8 @@ Il cherche à
       - [Team Building(hâche, dodgebow, etc.)](./src/hive.projets/social/team_building.md)
     - [Crédits RS-DE 2018](./hive.projets/rs_de_2018.md)
     - [Stages](./src/hive.projets/stages.md)
+    - Outillage
+      - [Soutien financier au pair programming](./src/hive.projets/outillage/pair_programming.md)
 
 
 Pour y contribuer.
