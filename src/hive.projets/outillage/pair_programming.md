@@ -19,9 +19,14 @@ Lorsque possible, utiliser un abonnement d’équipe pour réduire le fardeau ad
 L’outil à utiliser n’est pas imposé ni défini dans cette proposition.
 Les équipes définissent elles-mêmes les outils qui leur conviennent le mieux.
 
+## Précédents utilisés
+
+[Outils actuels ](../../ressources/outils.md) (Suite Google, Xero, Dialog, etc.)
+
+
 ## Résultats
 
-Au 12 novembre, les résultats étaient comme suit:
+Au 12 novembre 2021, les résultats étaient comme suit:
 
 ### Appuis (7)
 
@@ -43,3 +48,13 @@ Au 12 novembre, les résultats étaient comme suit:
 - Éric Villeneuve
 
 La proposition est donc entérinée par le groupe.
+
+
+## Précédents créés
+
+Outils financés par le Hive pour le groupe avec choix individuel. 
+
+### Financement du Hive
+| Description      | Coûts |
+| ----------- |  ---: |
+| 30$/mois * n abeilles     | < 600$ mois       |
