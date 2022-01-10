@@ -13,7 +13,7 @@ Donner ses lettres de noblesse au développement logiciel.
 
 Donner ses lettres de noblesses, autrement dit donner une grande notoriété, à l'art de développer des logiciels grâce à nos compétences.
 
-Développer avec passion des solutions logicielless qui nous rendent fiers en offrant une expérience différente, professionnelle et complète que nos clients adorent. 
+Développer avec passion des solutions logicielles qui nous rendent fiers en offrant une expérience différente, professionnelle et complète que nos clients adorent. 
 
 
 ## Valeurs
