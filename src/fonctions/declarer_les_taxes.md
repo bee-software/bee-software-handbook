@@ -27,7 +27,7 @@
   - Choisir les 2 crochets *Show by Tax Component* et *Show by Account Type*, appuyez sur *Update*
   - Il est possible (mais pas nécessaire) d'exporter le rapport pour faciliter les calculs
   - Section TPS du rapport Xero
-    - TPS / TVQ sur ventes (Revenue) - Colonne *Net* = Ligne 101
+    - Ligne 101 : entrer la valeur de la colonne *Net* TPS / TVQ sur ventes (Revenue)
     - TPS / TVQ sur ventes (Revenue) - Colonne *Tax* = Ligne 103
     - Somme de toutes les autres lignes - Colonne *Tax* = Ligne 106 (en montant positif)
   - Section TVQ du rapport Xero
