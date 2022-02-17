@@ -58,3 +58,16 @@ Vincent Tencé
 |  --------------------------------------   | -------       |
 | Coût total   | ?|
 
+
+## Party de Noël 2022
+Party de Noël à l'[Estérel](https://www.esterel.com/)
+
+### Porteur
+Nicholas Lemay
+
+### Financement du Hive(à confirmer)
+| Description      | Coûts |
+| :----------- |  ---: |
+| 15 chambres     | ~7740$       |
+|  --------------------------------------   | -------       |
+| Coût total   | ~7740$        |
