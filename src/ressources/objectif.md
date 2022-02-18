@@ -17,7 +17,7 @@ Avoir un site web où on s'expose et s'assume avec fierté et qui nous ressemble
 
 Se faire connaître et avoir du plaisir en réalisant ensemble un projet de développement logiciel à haute visibilité (à impact social).
 
-Faire du HoneyConf un évènement incontournable.
+Faire du HoneyConf un événement incontournable.
 
 Bee-dule
 
