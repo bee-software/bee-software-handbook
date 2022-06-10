@@ -64,8 +64,12 @@ Il cherche à
       - [Soutien financier au pair programming](./src/hive.projets/outillage/pair_programming.md)
 
 
-Pour y contribuer.
+
+Pour y contribuer.  
+Si vous n'avez pas les accès en écriture, demander à une abeille de vous inviter à rejoindre le GitHub 
 > git clone git@github.com:bee-software/bee-software-handbook.git
+ 
+
 
 
 
