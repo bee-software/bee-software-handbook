@@ -49,7 +49,7 @@ Voir l'image suivante  ![Facturation client - arrondissement](../../../assets/im
 ### Pré-requis
 - Avoir accès à la facturation dans Xero (menu Business -> Bills to pay)*
 - Avoir fait créer le fournisseur*
-- Avoir fait créer votre un `ìnventory code` représentant (Sous-Traitant)* 
+- Avoir fait créer un `ìnventory code` représentant votre entreprise (Sous-Traitant)* 
   ex: `Sous-Traitant - ABC inc`
 
 *Voir avec Carl
@@ -58,5 +58,5 @@ Voir l'image suivante  ![Facturation client - arrondissement](../../../assets/im
 1. Ouvrir Xero, menu Business -> Bills to pay
 2. Click `New Bill`
 3. Inscrire les informations requises. Voir image suivante  ![Facturation fournisseur](../../../assets/img/xero_facturation_fournisseur.png)
-4. Idéalement, dans la facture de votre entreprise, référé la facture client qui est visée dans une description ou en référence
-5. Une fois terminée, soumettre de votre facture pour approbation
+4. Idéalement, dans la facture de votre entreprise, référer la facture client qui est visée dans une description ou en référence
+5. Une fois terminé, soumettre votre facture pour approbation
