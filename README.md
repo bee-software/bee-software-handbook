@@ -37,7 +37,7 @@ Il cherche à
     - [Tenir les livres](./src/fonctions/tenir_les_livres.md)
         
 - [Ressources](./src/ressources)
-  - [Administration](./src/ressources/administration)
+  - [Administration](./src/ressources/administration/administration.md)
   - [Formation](./src/ressources/formation)
   - [Marketing](./src/ressources/marketing)
   - [Social](./src/ressources/social)
