@@ -10,4 +10,4 @@
 - TBD
 ### Action- motivé
 > Penser dans un processus séquentiel et linéaire
-- TBD
+- ![Alt text](../../assets/img/01_choisir_tache_butinage.png?raw=true "Title")
