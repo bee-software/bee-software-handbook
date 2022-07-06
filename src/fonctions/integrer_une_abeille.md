@@ -1,42 +1,100 @@
 # Fonction - Intégrer une abeille
 ### Service
+
 > Proposition de valeur
-- ...
+
+- Pour la nouvelle abeille en lui donnant:
+    - Une expérience d'arrivée chaleureuse 
+    - Des repères rapidement
+    - L'opportunité de créer des liens aves des abeilles  
+    - Une plateforme pour mettre en valeur ses super-pouvoirs, ses ambitions et ses attentes envers Bee
+    
+  
+- Pour la "marraine" en lui donnant:
+    - Des outils pour faciliter son rôle    
+     
+    
+- Pour les abeilles en leur donnant:
+    - Une occasion de célébrer la venue de nouvelles abeilles 
+    - Des prétextes de nourrir les liens avec les autres abeilles
+    - Des moyens d'augmenter leur sentiment d'appartenance
+    
+
 ### Outils
 > Programme, applications, liste de vérification, etc.
-- ...
+- Ce handbook
+
+
 ### Préservation
-> Solution en tant que création innovante
-- ...
+
+- Communiquer cette fonction à toutes les abeilles
+- Maintenir et faire évoluer les actions selon les feedback des nouvelles abeilles et marraines
+- Expérimenter le processus avec des abeilles actuelles
+
+
 ### Actions
 > Penser dans un processus séquentiel et linéaire
-1. ...
-1. Rétribution?
 
+1. Pre-boarding
 
-Pistes:
+    - Prendre du temps avec la nouvelle abeille et lui partager [la mission](../ressources/bee.md) et [les valeurs](../ressources/bee.md) de Bee (Handbook)
+    - Lui communiquer et lui faire sentir la culture et le fonctionnement de Bee
+    
+2. Suggérer l'abeille au groupe 
+    
+    - TODO: élaborer formule pour suggérer une abeille au groupe
+      
+3. Accompagner la nouvelle abeille dans son intégration à la ruche
 
-A quel moment on donne les accès :
-- Slack
-- Courriel
-- Xero
-- Trello
-- etc
+    3.1   Outils & accès
+        
+    * Présenter [les outils](../ressources/outils.md) (Slack, Gmail, Xero, Trello, Dialogue, Clockify.me, etc) 
+    * Donner les accès à la personne
+    
+    3.2 Routines & activités
+        
+    * Présenter les [les routines](../ressources/routines.md) & [activités](../ressources/routines.md) de BEE
+    * Projets, Butinage, Danse frétillante, Honeyconf, etc.
+        * Party de noël, Bee Bee Cue, etc.
+        * Y inviter la nouvelle abeille à y participer
+    
+    3.3 Présenter l'abeille
+    
+    * La présenter au gens oeuvrant sur la même ruche(mandat)
+    * La présenter au client 
+    
+    3.4 Légal
+    
+    * Signatures de contrats(Bee, clients, etc.)   
+    * Signature de NDA(Bee, clients, etc.)
+        
+    3.5 Fiscalité
+    
+    * Partager aux abeilles nos connaissances
+       * TODO: Capturer cette information
+    
+    * 3.6 Paie   
+      * Calcul de salaire
+      * Système de paye
+    
+    3.7 Facturation
+      * Facturation client
+      * [Facturation de butinage au Hive](./saisir_ses_heures_de_butinage.md)
+      * Consulter son solde(Xero)
 
-Présenter l'abeille au groupe
+      * Système de feuille de temps(Clockify.me)	
+        * Son fonctionnement
+          * Contexte 
 
-Participation/Invitation aux activités
+4. Célébrer l'arrivée de l'abeille  
 
-Test technique ou a travaillé avec une abeille ?
+  * Créer un événement rasssembleur en virtuel ou en personne
+  * Y inviter toutes les abeilles
+  * Utiliser le support du Hive au besoin
+  * Opportunité de lui rendre son chandail, hoodie, etc.
 
-Doit-on faire signer un Non-Disclosure Agreement pour chaque abeille ?
+   <img src="../../assets/img/crosby_draft.jpeg" width="400"><br/>
 
-Expliquer contexte de Bee
-- Handbook
-- Historique
-- Mission
-- Why Bee
-
-A quel moment une abeille devient une abeille ?
-- Est-ce à partir du moment où elle rentre dans un mandat comme une abeille ?
-- Est-ce à partir du moment où on la considère être adéquate pour être une abeille et que celle-ci désire se joindre ?
+   
+        
+         
