@@ -78,7 +78,7 @@
       * Système de paye
     
     3.7 Facturation
-      * Facturation client
+      * [Facturation client](../ressources/administration/facturation.md)
       * [Facturation de butinage au Hive](./saisir_ses_heures_de_butinage.md)
       * Consulter son solde(Xero)
 
