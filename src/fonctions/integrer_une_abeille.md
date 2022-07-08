@@ -10,8 +10,15 @@
     - Une plateforme pour mettre en valeur ses super-pouvoirs, ses ambitions et ses attentes envers Bee
     
   
-- Pour la "marraine" en lui donnant:
-    - Des outils pour faciliter son rôle    
+- Pour la "marraine" en lui donnant des outils pour l'accompagner dans sa mission qui est de: 
+
+    - Donner envie de rejoindre la ruche
+    - Expliquer [la mission](../ressources/bee.md) et [les valeurs](../ressources/bee.md) de Bee
+    - Faire connaître et comprendre la culture
+    - Expliquer le fonctionnement de Bee
+    - Partager les attentes envers les nouvelles abeilles
+    - Accompagner la nouvelle abeille dans son intégration à la ruche
+
      
     
 - Pour les abeilles en leur donnant:
@@ -36,7 +43,7 @@
 ### Pre-boarding
 
 #### Présenter Bee
-- Prendre du temps avec la nouvelle abeille et lui partager [la mission](../ressources/bee.md) et [les valeurs](../ressources/bee.md) de Bee (Handbook)
+- Prendre du temps avec la nouvelle abeille et lui partager [la mission](../ressources/bee.md) et [les valeurs](../ressources/bee.md) de Bee
 - Lui communiquer et lui faire sentir la culture et le fonctionnement de Bee
 ##### La nouvelle abeille partage sa vision de sa contribution à la ruche en répondant par exemple aux questions suivantes
 - Pourquoi est-ce plus important pour toi d’avoir cette conversation au sujet de Bee et de rejoindre la ruche plutôt que de faire n’importe quelle autre chose ?
