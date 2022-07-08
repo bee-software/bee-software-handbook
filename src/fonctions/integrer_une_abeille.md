@@ -33,12 +33,21 @@
 
 
 ### Actions
-> Penser dans un processus séquentiel et linéaire
-
 1. Pre-boarding
 
+    1.1 Présenter Bee
     - Prendre du temps avec la nouvelle abeille et lui partager [la mission](../ressources/bee.md) et [les valeurs](../ressources/bee.md) de Bee (Handbook)
     - Lui communiquer et lui faire sentir la culture et le fonctionnement de Bee
+
+    1.2 La nouvelle abeille partage sa vision de sa contribution à la ruche en répondant par exemple aux questions suivantes
+    - Pourquoi est-ce plus important pour toi d’avoir cette conversation au sujet de Bee et de rejoindre la ruche plutôt que de faire n’importe quelle autre chose ?
+    - Quelles sont les plaintes que tu te vois faire le plus souvent dans ta situation actuelle ?
+    - Qu’as-tu fait jusqu’ici pour aborder les problèmes dont tu te plains ?
+    - Quel serait pour toi un accomplissement extraordinaire ?
+    - Quels sont tes superpouvoirs d’abeille ? Quelle est ta vulnérabilité ?
+    - Quelle est la plus grande contribution que tu comptes faire personnellement à la ruche ?
+    - Qu’est-ce qui est vraiment important pour toi et pour lequel tu es prêt à confronter la ruche et les autres abeilles si tu n’es pas satisfait ?
+
     
 2. Suggérer l'abeille au groupe 
     
