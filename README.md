@@ -13,7 +13,7 @@ Il cherche à
 
 ## Table des matières
 
-[Introduction](./intro.md)
+[Introduction](./src/intro.md)
 
 - [Bee](./src/ressources/bee.md)
   - [Objectif thématique](./src/ressources/objectif.md)
