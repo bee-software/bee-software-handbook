@@ -3,18 +3,18 @@ Le hive permet à bee d'exister et de se réaliser.
 
 ### Contributions
 
-Voir [Contribuer au hive](./src/fonctions/contribuer_au_hive.md)
+Voir [Contribuer au hive](../fonctions/contribuer_au_hive.md)
 
 ### Utilisations
 
-<img src="./hive-utilisations.png">
+![hive-utilisations](./hive-utilisations.png)
 
 #### Dans clockify
 Un project par axe. Une tâche par activité.
 
 #### Dans xero
 
-Categories comptables != catégories bee.<br>
+Categories comptables != catégories bee.  
 Comment catégoriser les entrées dans les catégories comptables et dans les catégories bee?
 
 Dépenses de bureau -> Honoraire professionnel?
