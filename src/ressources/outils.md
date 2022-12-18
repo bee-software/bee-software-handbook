@@ -45,4 +45,22 @@ Liste de livres disponibles gratuitement pour toutes les abeilles.
 En faire la demande ou le partage sur Slack.
 La majorité des livres physiques sont chez Nicholas Lemay.
 
+![image-text](../../assets/img/bee_bee_o_theque_1.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_2.jpeg)
+
 ![image-text](../../assets/img/bee_bee_o_theque_3.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_4.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_5.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_6.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_7.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_8.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_9.jpeg)
+
+![image-text](../../assets/img/bee_bee_o_theque_10.jpeg)
