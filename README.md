@@ -48,6 +48,7 @@ Il cherche à
     - [Coaching](./src/hive.projets/coaching.md)
     - Conférences
       - [Confoo 2021](./src/hive.projets/conferences/confoo_2021.md)
+      - [Honeyconfs](./src/hive.projets/conferences/honeyconfs.md)
     - Formation
       - [JUG](./src/hive.projets/formation/jug.md)
       - [UQAM 2018](./src/hive.projets/formation/uqam.md)
